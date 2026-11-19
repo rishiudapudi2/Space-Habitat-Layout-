@@ -1,0 +1,19 @@
+{
+  "name": "space-habitat-creator",
+  "version": "1.0.0",
+  "description": "SW-4 Space Habitat Layout Creator & Habitability Engine - Full Stack CAD Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "space-habitat",
+    "aerospace-cad",
+    "threejs",
+    "nasa-std-3001",
+    "habitability"
+  ],
+  "author": "Antigravity Aerospace Engineering",
+  "license": "MIT"
+}
